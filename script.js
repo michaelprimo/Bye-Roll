@@ -45,7 +45,7 @@ function upload()
       ctx.drawImage(logo3_image, 350, 230);
      
       ctx.font = "19px Tahoma";
-      ctx.fillText("Made by: Michael Primo", 140,590);
+      ctx.fillText("Made by: Michael Primo for the JS13K competition.", 30,590);
       ctx.fillText("Tested and support by: Paraserver and RPG2S", 50,620);
     }
     if(scene_manager.curScene == 1)
